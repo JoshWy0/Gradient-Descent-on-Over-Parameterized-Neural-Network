@@ -3,6 +3,8 @@
 ### This repository is dedicated to exploring one central question: ###
 👉 Why do over-parameterized neural networks exhibit linear convergence under gradient descent?
 
+
+
 # Rather than presenting a full formal proof or dense theoretical exposition, the goal here is to create a space where we can:
 
 ### Discuss ideas ###
