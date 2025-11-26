@@ -5,7 +5,7 @@
 
 
 
-# Rather than presenting a full formal proof or dense theoretical exposition, the goal here is to create a space where we can:
+## Rather than presenting a full formal proof or dense theoretical exposition, the goal here is to create a space where we can:
 
 ### Discuss ideas ###
 From high-level intuition to subtle technical details—anything that helps understand why training behaves so nicely in the over-parameterized regime.
