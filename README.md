@@ -1,4 +1,4 @@
-# Over-Parameterized Neural Network, why linear convergence?
+# It is going to be talking about mostly gradient descent in mathematical terms on ANNs
 
 ### This repository is dedicated to exploring one central question: ###
 👉 Why do over-parameterized neural networks exhibit linear convergence under gradient descent?
